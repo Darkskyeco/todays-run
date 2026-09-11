@@ -1,0 +1,25 @@
+{
+  "name": "Today's run",
+  "short_name": "Run",
+  "description": "Your day in the Warrumbungles. For guests staying at Dark Sky Eco Retreat.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B1520",
+  "theme_color": "#0B1520",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
