@@ -1,7 +1,7 @@
 {
-  "name": "Today's run",
-  "short_name": "Run",
-  "description": "Your day in the Warrumbungles. For guests staying at Dark Sky Eco Retreat.",
+  "name": "Our Dark Sky Holiday",
+  "short_name": "Holiday",
+  "description": "Getting to the Dark Sky, your day in the Warrumbungles. For guests staying at Dark Sky Eco Retreat.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
