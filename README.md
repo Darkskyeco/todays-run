@@ -1,17 +1,12 @@
-# Today's run
+# Our Dark Sky Holiday
 
 Guest stay page for Dark Sky Eco Retreat, Coonabarabran.
 
 Public face: https://darkskyeco.github.io/todays-run/
+Workshop host: https://shale-sapphire-falcon-mint.grok.me/
 
-Short name on the home screen: Run.
-
-All Departure days read the same:
-
-Check-out 10:00 am
-
-Breakfast, pack at leisure. Then, if possible, message Mark and Wendy so we can drop by your lodge, thank you for staying and say goodbye in person.
-
-WhatsApp and Estate gates sit on that card. The old "no full park loop" line is gone.
+On-page title: Our Dark Sky Holiday.
+Home-screen short name: Holiday.
+Icon: Dark Sky Eco Retreat D on the black cog.
 
 This page is for guests staying on Timor Road. It is not a Dark Sky Hub public tool.
